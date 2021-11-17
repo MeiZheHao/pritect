@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.youle.dao.SetMealDao">
+    <!--多对多映射关系表-->
+    <resultMap id="baseResultMap" type="com.youle.pojo.Setmeal">
+        <id column="id" property="id"></id>
+        <result column="name" property="name"></result>
+        <result column="code" property="code"></result>
+        <result column="helpCode" property="helpCode"></result>
+        <result column="sex" property="sex"></result>
+        <result column="age" property="age"></result>
+        <result column="price" property="price"></result>
+        <result column="remark" property="remark"></result>
+        <result column="attention" property="attention"></result>
+        <result column="img" property="img"></result>
+    </resultMap>
+    <resultMap id="findByIdResultMap" type="com.youle.pojo.Setmeal" extends="baseResultMap">
+        <collection property="checkGroups" ofType="com.youle.pojo.CheckGroup"
+                    select="com.youle.dao.CheckGroupDao.findCheckGroupById" column="id">
+        </collection>
+    </resultMap>
+<insert id="add" parameterType="com.youle.pojo.Setmeal">
+<selectKey resultType="java.lang.Integer" order="AFTER" keyProperty="id">
+    SELECT LAST_INSERT_ID()
+</selectKey>
+    insert into t_setmeal(name,code,helpCode,sex,age,price,remark,attention,img)
+    values (#{name},#{code},#{helpCode},#{sex},#{age},#{price},#{remark},#{attention},#{img})
+</insert>
+    <insert id="setSetMealAndGroup" parameterType="java.util.Map">
+        insert into t_setmeal_checkgroup(setmeal_id,checkgroup_id)
+        values (#{setmealId},#{checkGroupId})
+    </insert>
+    <select id="findByCondition" resultType="com.youle.pojo.Setmeal" parameterType="java.lang.String">
+        select * from t_setmeal
+        <if test="value != null and value != '' and value.length > 0">
+            where code = #{value} or name = #{value} or helpCode = #{value}
+        </if>
+    </select>
+    <select id="findAll" resultType="com.youle.pojo.Setmeal">
+        select * from t_setmeal
+    </select>
+     <!-- 查询检查套餐关联的检查组信息，多对多关系-->
+    <select id="findById" parameterType="java.lang.Integer" resultMap="findByIdResultMap" >
+        select * from t_setmeal where id = #{id}
+    </select>
+</mapper>

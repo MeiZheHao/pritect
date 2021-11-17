@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03494f04-e012-4b4b-a7d3-2c0169060dde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="health: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="health: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t_permission: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="health: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t_role: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="health: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t_role_permission: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="health: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t_user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="health: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t_user_role: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\javatool\maven_work\maven_repository" />
+        <option name="mavenHome" value="E:/javatool/maven_work/apache-maven-3.8.2" />
+        <option name="userSettingsFile" value="E:\javatool\maven_work\apache-maven-3.8.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1zqzsQJCeyxPetaN13lOZC2KLIl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/health_backend/src/main/webapp/pages" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA_Code\Distributed_Code\health_backend\src\main\webapp" />
+      <recent name="E:\IDEA_Code\Distributed_Code\health_service_provider\src\main\webapp\WEB-INF\ftl" />
+      <recent name="E:\IDEA_Code\Distributed_Code\health_commom\src\main\java\com\youle\pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA_Code\Distributed_Code\health_backend\src\main\webapp\pages" />
+      <recent name="E:\IDEA_Code\Distributed_Code\health_mobile\src\main\webapp\pages" />
+      <recent name="E:\IDEA_Code\Distributed_Code\health_service_provider\src\main\resources\com\youle\dao" />
+      <recent name="E:\IDEA_Code\Distributed_Code\health_service_provider\src\main\java\com\youle\dao" />
+      <recent name="E:\IDEA_Code\Distributed_Code\health_commom\src\main\java\com\youle\utils" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn mvn -U idea:idea" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.health_backend [tomcat7:run]">
+    <configuration name="QianYiMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.youle.utils.QianYiMessage" />
+      <module name="health_commom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youle.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.youle.utils.Test" />
+      <module name="health_commom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youle.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tenxun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.youle.utils.tenxun" />
+      <module name="health_commom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youle.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="health_backend [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/health_backend" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="health_mobile [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/health_mobile" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="health_service_provider [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/health_service_provider" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.tenxun" />
+      <item itemvalue="Application.QianYiMessage" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Maven.health_mobile [tomcat7:run]" />
+      <item itemvalue="Maven.health_service_provider [tomcat7:run]" />
+      <item itemvalue="Maven.health_backend [tomcat7:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.QianYiMessage" />
+        <item itemvalue="Application.tenxun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03494f04-e012-4b4b-a7d3-2c0169060dde" name="Default Changelist" comment="" />
+      <created>1634890611585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634890611585</updated>
+      <workItem from="1634890614579" duration="533000" />
+      <workItem from="1634891182717" duration="348000" />
+      <workItem from="1634891557264" duration="1374000" />
+      <workItem from="1634893038665" duration="85000" />
+      <workItem from="1634893294133" duration="8297000" />
+      <workItem from="1634904823416" duration="603000" />
+      <workItem from="1634948965479" duration="8698000" />
+      <workItem from="1635037398170" duration="2047000" />
+      <workItem from="1635121452521" duration="7096000" />
+      <workItem from="1635130994446" duration="20104000" />
+      <workItem from="1635214641245" duration="14651000" />
+      <workItem from="1635294779882" duration="19930000" />
+      <workItem from="1635383693012" duration="2645000" />
+      <workItem from="1635472355936" duration="3049000" />
+      <workItem from="1635554139532" duration="7518000" />
+      <workItem from="1635735382580" duration="3013000" />
+      <workItem from="1635738704070" duration="72748000" />
+      <workItem from="1636161311102" duration="1215000" />
+      <workItem from="1636334973220" duration="16000" />
+      <workItem from="1636346197630" duration="162000" />
+      <workItem from="1636815298707" duration="2927000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1634902395025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1634902395025" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635838161803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1635838161803" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1636027375475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1636027375475" />
+    <state x="508" y="271" width="519" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1635130073726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="508" y="271" width="519" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1635130073726" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1635739957558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1635739957558" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1635147062473">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1536.824@0.0.1536.824" timestamp="1635147062473" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1635130939832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1635130939832" />
+    <state width="1493" height="330" key="GridCell.Tab.0.bottom" timestamp="1636116626709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="330" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1636116626709" />
+    <state width="1493" height="330" key="GridCell.Tab.0.center" timestamp="1636116626709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="330" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1636116626709" />
+    <state width="1493" height="330" key="GridCell.Tab.0.left" timestamp="1636116626709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="330" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1636116626709" />
+    <state width="1493" height="330" key="GridCell.Tab.0.right" timestamp="1636116626709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="330" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1636116626709" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1635147152133">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1635147152133" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1635912798538">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1635912798538" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1636346205811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1636346205811" />
+    <state x="548" y="225" width="439" height="370" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1635147201930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="225" width="439" height="370" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1536.824@0.0.1536.824" timestamp="1635147201930" />
+    <state x="609" y="100" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1635147034557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="609" y="100" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1536.824@0.0.1536.824" timestamp="1635147034557" />
+    <state x="507" y="164" key="extract.method.dialog" timestamp="1635914268116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="164" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1635914268116" />
+    <state x="178" y="23" key="new project wizard" timestamp="1635837070307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="23" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1635837070307" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1634892813452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1634892813452" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1635928680953">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1635928680953" />
+  </component>
+</project>

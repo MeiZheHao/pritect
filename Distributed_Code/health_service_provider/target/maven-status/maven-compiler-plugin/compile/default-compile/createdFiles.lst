@@ -1,0 +1,17 @@
+com\youle\service\impl\ReportServiceImpl.class
+com\youle\dao\MemberDao.class
+com\youle\dao\CheckItemDao.class
+com\youle\service\impl\OrderServiceImpl.class
+com\youle\service\impl\UserServiceImpl.class
+com\youle\dao\PermissionDao.class
+com\youle\dao\SetMealDao.class
+com\youle\service\impl\CheckItemServiceImpl.class
+com\youle\dao\RoleDao.class
+com\youle\dao\UserDao.class
+com\youle\service\impl\SetMealServiceImpl.class
+com\youle\dao\OrderSettingDao.class
+com\youle\service\impl\OrderSettingServiceImpl.class
+com\youle\dao\CheckGroupDao.class
+com\youle\dao\OrderDao.class
+com\youle\service\impl\MemberServiceImpl.class
+com\youle\service\impl\CheckGroupServiceImpl.class
